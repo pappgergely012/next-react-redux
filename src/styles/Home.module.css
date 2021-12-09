@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+}
+
+.title {
+  color: #339cdd;
+  border-bottom: 2px solid #e3e3e3;
+  padding: 5px 40px;
+}
+
+.inputContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+}
+
+.input {
+  width: 300px;
+}
+
+.button {
+  width: 30px;
+  border-radius: 0 6px 6px 0;
+}

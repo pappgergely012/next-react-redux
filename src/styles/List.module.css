@@ -1,0 +1,16 @@
+.empty {
+  color: red;
+  margin-top: 3rem;
+  font-size: 18px;
+  font-style: italic;
+}
+
+.listContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 800px;
+  margin-top: 60px;
+  flex-wrap: wrap;
+}
